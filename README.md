@@ -1,2 +1,2 @@
-# HousePricePrediction-Basics-
+# HousePricePrediction
 Predict house selling prices
